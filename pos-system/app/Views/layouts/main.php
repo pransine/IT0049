@@ -12,10 +12,10 @@
             <h1>POS System</h1>
 
             <nav>
-                <a href="<?= base_url('/') ?>">Home</a>
-                <a href="<?= base_url('about') ?>">About</a>
-                <a href="<?= base_url('customers') ?>">Customers</a>
-                <a href="<?= base_url('users') ?>">Users</a>
+                <a href="http://posfsystem.infinityfreeapp.com/">Home</a>
+                <a href="http://posfsystem.infinityfreeapp.com/about">About</a>
+                <a href="http://posfsystem.infinityfreeapp.com/customers">Customers</a>
+                <a href="http://posfsystem.infinityfreeapp.com/users">Users</a>
             </nav>
         </div>
     </header>

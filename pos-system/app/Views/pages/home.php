@@ -11,8 +11,8 @@
     </p>
 
     <div class="actions">
-        <a href="<?= base_url('customers') ?>" class="button">View Customers</a>
-        <a href="<?= base_url('users') ?>" class="button secondary">View Users</a>
+        <a href="http://posfsystem.infinityfreeapp.com/customers" class="button">View Customers</a>
+        <a href="http://posfsystem.infinityfreeapp.com/users" class="button secondary">View Users</a>
     </div>
 </section>
 
