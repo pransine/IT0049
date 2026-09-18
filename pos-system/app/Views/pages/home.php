@@ -3,7 +3,7 @@
 <?= $this->section('content') ?>
 
 <section class="hero">
-    <h2>Welcome to the Simple POS System</h2>
+    <h2>Welcome!</h2>
 
     <p>
         This website is the first version of a basic Point-of-Sale system

@@ -8,30 +8,56 @@ class Customers extends BaseController
     {
         $customers = [
             [
-                'full_name' => 'Juan Dela Cruz',
-                'email' => 'juan.delacruz@example.com',
-                'phone' => '0917-123-4567',
+                'full_name' => 'Michaella Balasta',
+                'email' => 'michaellabalasta@gmail.com',
+                'phone' => '+63 911-123-4567',
             ],
             [
-                'full_name' => 'Maria Santos',
-                'email' => 'maria.santos@example.com',
-                'phone' => '0918-234-5678',
+                'full_name' => 'Jian Santos',
+                'email' => 'jiansantos@gmail.com',
+                'phone' => '+63 917-234-5678',
             ],
             [
-                'full_name' => 'Carlo Reyes',
-                'email' => 'carlo.reyes@example.com',
-                'phone' => '0919-345-6789',
+                'full_name' => 'Carlo Tan',
+                'email' => 'carlotan@gmail.com',
+                'phone' => '+63 999-345-6789',
             ],
             [
                 'full_name' => 'Angela Garcia',
-                'email' => 'angela.garcia@example.com',
-                'phone' => '0920-456-7890',
+                'email' => 'angelagarcia@gmail.com',
+                'phone' => '+63 922-456-7890',
             ],
             [
                 'full_name' => 'Miguel Mendoza',
-                'email' => 'miguel.mendoza@example.com',
-                'phone' => '0921-567-8901',
+                'email' => 'miguelmendoza@gmail.com',
+                'phone' => '+63 925-567-8901',
             ],
+            [
+                'full_name' => 'Angel Lara',
+                'email' => 'angellara@gmail.com',
+                'phone' => '+63 938-678-9022',
+            ],
+            [
+                'full_name' => 'Juniah Perez',
+                'email' => 'niahperez@gmail.com',
+                'phone' => '+63 988-618-9012',
+            ],
+            [
+                'full_name' => 'Keith Dy',
+                'email' => 'keithdy@gmail.com',
+                'phone' => '+63 923-789-0123',
+            ],
+            [
+                'full_name' => 'Bailey Cruz',
+                'email' => 'baileycruz@gmail.com',
+                'phone' => '+63 993-989-9923',
+            ],
+            [
+                'full_name' => 'Bobby Lee',
+                'email' => 'bobbylee@gmail.com',
+                'phone' => '+63 923-789-9876',
+            ],
+            
         ];
 
         return view('customers/index', [

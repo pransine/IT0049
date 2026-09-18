@@ -8,28 +8,53 @@ class Users extends BaseController
     {
         $users = [
             [
-                'username' => 'admin',
+                'username' => 'francine01',
                 'full_name' => 'Francine Agalabia',
-                'role' => 'Administrator',
+                'role' => 'CEO',
+            ],
+            [
+                'username' => 'mercy01',
+                'full_name' => 'Mercy Dela Cruz',
+                'role' => 'Manager',
+            ],
+            [
+                'username' => 'anna01',
+                'full_name' => 'Anna Flores',
+                'role' => 'Assistant Manager',
+            ],
+            [
+                'username' => 'bea01',
+                'full_name' => 'Bea Maxine',
+                'role' => 'Secretary ',
+            ],
+            [
+                'username' => '',
+                'full_name' => 'Nicole Ramos',
+                'role' => 'Cashier',
+            ],
+            [
+                'username' => 'chloe01',
+                'full_name' => 'Chloe Marie',
+                'role' => 'Help Desk',
             ],
             [
                 'username' => 'cashier01',
                 'full_name' => 'John Villanueva',
-                'role' => 'Cashier',
+                'role' => 'Staff',
             ],
             [
-                'username' => 'cashier02',
-                'full_name' => 'Anna Flores',
-                'role' => 'Cashier',
+                'username' => 'jaz01',
+                'full_name' => 'Jazmine Elly',
+                'role' => 'Staff',
             ],
             [
                 'username' => 'manager01',
                 'full_name' => 'Mark Bautista',
-                'role' => 'Manager',
+                'role' => 'Staff',
             ],
             [
                 'username' => 'staff01',
-                'full_name' => 'Nicole Ramos',
+                'full_name' => 'Violet Garcia',
                 'role' => 'Staff',
             ],
         ];

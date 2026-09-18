@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?= esc($title) ?> | Simple POS</title>
+    <title><?= esc($title) ?> | POS</title>
     <link rel="stylesheet" href="<?= base_url('css/style.css') ?>">
 </head>
 <body>
     <header>
         <div class="container">
-            <h1>Simple POS System</h1>
+            <h1>POS System</h1>
 
             <nav>
                 <a href="<?= base_url('/') ?>">Home</a>
@@ -26,7 +26,7 @@
 
     <footer>
         <div class="container">
-            <p>&copy; <?= date('Y') ?> Simple POS System</p>
+            <p>&copy; <?= date('Y') ?> POS System</p>
         </div>
     </footer>
 </body>
