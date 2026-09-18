@@ -11,8 +11,8 @@
     </p>
 
     <div class="actions">
-        <a href="http://posfsystem.infinityfreeapp.com/customers" class="button">View Customers</a>
-        <a href="http://posfsystem.infinityfreeapp.com/users" class="button secondary">View Users</a>
+        <a href="/customers" class="button">View Customers</a>
+        <a href="/users" class="button secondary">View Users</a>
     </div>
 </section>
 

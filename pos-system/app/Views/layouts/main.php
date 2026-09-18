@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?= esc($title) ?> | POS</title>
-    <link rel="stylesheet" href="http://posfsystem.infinityfreeapp.com/css/style.css">
+    <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
     <header>
@@ -12,10 +12,10 @@
             <h1>POS System</h1>
 
             <nav>
-                <a href="http://posfsystem.infinityfreeapp.com/">Home</a>
-                <a href="http://posfsystem.infinityfreeapp.com/about">About</a>
-                <a href="http://posfsystem.infinityfreeapp.com/customers">Customers</a>
-                <a href="http://posfsystem.infinityfreeapp.com/users">Users</a>
+                <a href="/">Home</a>
+                <a href="/about">About</a>
+                <a href="/customers">Customers</a>
+                <a href="/users">Users</a>
             </nav>
         </div>
     </header>
