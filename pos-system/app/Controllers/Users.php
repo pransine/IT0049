@@ -28,19 +28,19 @@ class Users extends BaseController
                 'role' => 'Secretary ',
             ],
             [
-                'username' => '',
+                'username' => 'noc01',
                 'full_name' => 'Nicole Ramos',
                 'role' => 'Cashier',
             ],
             [
                 'username' => 'chloe01',
                 'full_name' => 'Chloe Marie',
-                'role' => 'Help Desk',
+                'role' => 'Agent',
             ],
             [
                 'username' => 'cashier01',
                 'full_name' => 'John Villanueva',
-                'role' => 'Staff',
+                'role' => 'Help Desk',
             ],
             [
                 'username' => 'jaz01',
